@@ -5,7 +5,10 @@ Pair Programming Modulo 3
 
 Comenzando 🚀
 
-Pre-requisitos 📋
+
+
+
+Librerias utilizadas🛠️
 
 import pandas as pd
 
@@ -27,12 +30,5 @@ import matplotlib.pyplot as plt
 
 import seaborn as sns
 
-Ejecutando las pruebas ⚙️
-
-
-Construido con 🛠️
-
-
-Construido con 🛠️
 
 Expresiones de Gratitud 🎁
